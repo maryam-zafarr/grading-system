@@ -1,0 +1,5 @@
+venv
+backend/backend/__pycache__
+backend/grades/__pycache__
+backend/grades/migrations/__pycache__
+backend/grades/management/commands/__pycache__
